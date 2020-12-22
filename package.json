@@ -1,0 +1,15 @@
+{
+  "name": "Seed",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:simple-web-app/Seed.git",
+  "author": "Robin Wong <chaowang0313@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "cheerio": "^1.0.0-rc.3",
+    "cos-nodejs-sdk-v5": "^2.8.3",
+    "rss-parser": "^3.10.0",
+    "turndown": "^7.0.0"
+  }
+}
